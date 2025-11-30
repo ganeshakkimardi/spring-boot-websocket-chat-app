@@ -1,0 +1,25 @@
+# Build
+/build/
+/.gradle/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Java
+*.class
+
+# Others
+/out/
